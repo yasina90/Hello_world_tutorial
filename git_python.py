@@ -54,7 +54,7 @@ linestyle_tuple:
 'densely dashdotdotted' (0, (3, 1, 1, 1, 1, 1))
 
 color:
-'b'  # blue
+    # 254
 'g'  # green
 'r'  # red
 'c'  # cyan
